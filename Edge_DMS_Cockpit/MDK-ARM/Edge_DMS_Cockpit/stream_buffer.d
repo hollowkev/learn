@@ -1,0 +1,14 @@
+edge_dms_cockpit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+edge_dms_cockpit\stream_buffer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+edge_dms_cockpit\stream_buffer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+edge_dms_cockpit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+edge_dms_cockpit\stream_buffer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+edge_dms_cockpit\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+edge_dms_cockpit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+edge_dms_cockpit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+edge_dms_cockpit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+edge_dms_cockpit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+edge_dms_cockpit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+edge_dms_cockpit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+edge_dms_cockpit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+edge_dms_cockpit\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

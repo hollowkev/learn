@@ -1,0 +1,14 @@
+edge_dms_cockpit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+edge_dms_cockpit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+edge_dms_cockpit\croutine.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+edge_dms_cockpit\croutine.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+edge_dms_cockpit\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+edge_dms_cockpit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+edge_dms_cockpit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+edge_dms_cockpit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+edge_dms_cockpit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+edge_dms_cockpit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+edge_dms_cockpit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+edge_dms_cockpit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+edge_dms_cockpit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+edge_dms_cockpit\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

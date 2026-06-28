@@ -1,0 +1,10 @@
+edge_dms_cockpit\tinyframe.o: ..\Core\Src\TinyFrame.c
+edge_dms_cockpit\tinyframe.o: ../Core/Inc/TinyFrame.h
+edge_dms_cockpit\tinyframe.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+edge_dms_cockpit\tinyframe.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+edge_dms_cockpit\tinyframe.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+edge_dms_cockpit\tinyframe.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+edge_dms_cockpit\tinyframe.o: ../Core/Inc/TF_Config.h
+edge_dms_cockpit\tinyframe.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+edge_dms_cockpit\tinyframe.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+edge_dms_cockpit\tinyframe.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
